@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hi 👋, I'm Mert Demirci</h1>
-</p>
+<p align="center"><b>Hi 👋, I'm Mert Demirci</b></p>
 
 <p align="center"><b>I'm a Computer Engineering Student</b></p>
 
